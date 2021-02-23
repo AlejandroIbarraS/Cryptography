@@ -1,0 +1,1 @@
+This is a manual implementation of the Vigenere and Affine Cipher.
